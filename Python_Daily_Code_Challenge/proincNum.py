@@ -6,5 +6,8 @@ def is_pronic (num):
            if a*b == num:
               return True
     return False
+print (is_pronic(0))
+print (is_pronic(6))
+print (is_pronic(15))
 
 
