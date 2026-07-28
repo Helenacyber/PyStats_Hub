@@ -9,5 +9,7 @@ def is_pronic (num):
 print (is_pronic(0))
 print (is_pronic(6))
 print (is_pronic(15))
+print (is_pronic(132))
+print (is_pronic(80))
 
 
