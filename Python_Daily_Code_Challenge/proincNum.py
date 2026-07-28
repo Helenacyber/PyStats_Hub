@@ -1,0 +1,1 @@
+#This program defines a function that takes a number and check it wherether the number is a pronic or not \n A pronic A pronic number is the product of two consecutive integers. For example, 6 is pronic because 2 * 3 = 6.
