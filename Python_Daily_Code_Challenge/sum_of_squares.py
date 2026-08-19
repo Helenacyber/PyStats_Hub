@@ -7,6 +7,12 @@ def sum_of_squares(n):
         result += value
     return result
 
+print(sum_of_squares(5))
+print(sum_of_squares(10))
+print(sum_of_squares(25))
+print(sum_of_squares(500))
+print(sum_of_squares(1000))
+
 
 
 
